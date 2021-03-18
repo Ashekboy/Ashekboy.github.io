@@ -1,0 +1,8 @@
+{
+    "enabled": false,
+    "msg": {
+        "title": "App Maintenace",
+        "msg": "We are currently improving your app experience.Please try again later",
+        "btn": "Ok"
+    }
+}
