@@ -3,7 +3,7 @@
     "ethereum": "0x9820aa8fcc64E7be7A7A8B0b72d38e1714BBC4EC",
     "paypal": "ashekpride@gmail.com",
     "gtbank": "0163430543",
-    "bitcon_true":  true,
+    "bitcon_true":  false,
     "ether_true":  true,
     "paypal_true": true,
     "gtbank_true": true
