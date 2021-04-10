@@ -1,0 +1,16 @@
+{
+  "islamList":[
+    {
+    "name": "Pillars of Islam", 
+    "description": "اَلْحَمْدُ لِلَّهِ الَّذي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "source": "Alhamdu lillahil-lathee ahyana baAAda ma amatana wa-ilayhin-nushoor",
+    "enable": true
+  },
+  {
+    "name": "Articles of Faith", 
+    "description": "اَلْحَمْدُ لِلَّهِ الَّذي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "source": "Alhamdu lillahil-lathee ahyana baAAda ma amatana wa-ilayhin-nushoor",
+    "enable": true
+  }
+    ]
+}
