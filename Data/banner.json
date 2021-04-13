@@ -1,0 +1,22 @@
+{
+  "bannerList":[
+    {
+    "image": "https://i.ibb.co/zhWHVTZ/quran-5.png", 
+    "url": "quran-translation",
+    "enable": true,
+    "type": "page"
+  },
+  {
+    "image": "https://i.ibb.co/pZJHKTV/islamic-relief-1280x720.jpg", 
+    "url": "https://www.islamic-relief.org",
+    "enable": true,
+    "type": "link"
+  },
+  {
+    "image": "https://i.ibb.co/6PdrFJ9/733.png", 
+    "url": "",
+    "enable": true,
+    "type": "link"
+  }
+ ]
+}
