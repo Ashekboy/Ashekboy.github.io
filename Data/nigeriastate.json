@@ -330,7 +330,7 @@
     {
       "state":{
         "name":"Ekiti State",
-        "id":13,"
+        "id":13,
         "locals":[
         {"name":"Efon","id":1},
         {"name":"Ekiti East","id":2},
